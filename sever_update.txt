@@ -1,1 +1,1 @@
-https://backed-axis-void-submissions.trycloudflare.com/
+https://api.trycloudflare.com/
