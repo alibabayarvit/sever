@@ -1,1 +1,1 @@
-https://mag-protection-knight-local.trycloudflare.com/
+https://api.trycloudflare.com/
